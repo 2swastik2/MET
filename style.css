@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Montserrat&display=swap');
+
+body {
+    font-family: "Montserrat";
+}
+  
+#title {
+    background-color: black;
+      color: #fff;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+  
+h1 {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding-left: 45px;
+    padding-bottom: 20px;
+}
+
+.h1aa{
+    text-align: left;
+    margin-bottom: 15px;
+
+}
+
+.h4aa{
+    font-family: "Dancing Script";
+    line-height: 1.5;
+    padding-left: 45px;
+}
+
+h4{
+    font-family: "Montserrat-Black";
+    line-height: 1.5;
+    padding-left: 45px;
+}
+
+h2 {
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.h2aa{
+    text-align: center;
+}
+  
+/* h3 {
+    font-family: "Montserrat-Bold";
+    font-weight: bold;
+} */
+  
+p {
+    color: #8F8F8F;
+    text-align: center;
+}
+  
+.navbar {
+    padding: 0 0 1.5rem;
+}
+  
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+  
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+.title-image {
+    width: 120%;
+    position: absolute;
+    left: 52%;
+    margin-left: 300px;
+    margin-bottom: 10px;
+}
+
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.feature_images{
+    margin-bottom: 1rem;
+}
+
+#testimonials {
+    text-align: center;
+    background-color: #282A3A;
+    color: #FFF;
+}
+
+/* .testimonial-img {
+    width: 30%;
+    border-radius: 20%;
+    margin: 20px;
+} */
+
+.testimonial-text{
+    margin-bottom: 30px;
+}
+  
+  .carousel-item {
+    padding: 8% 15%;
+}
+
+#product_page {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-coloumn {
+    padding: 3% 2%;
+}
+
+#contact {
+    background-color: #282A3A;
+    color: #fff;
+    padding: 7% 15%;
+}
+  
+.contact-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.contact_p{
+    text-align: left;
+    font-weight: bold;
+    line-height: 1.5rem;
+    margin-top: 55px;
+}
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.footer_p{
+    font-family: "Dancing Script";
+    font-size: 1.2rem;
+}
+
+.btn{
+    margin: 15px;
+}
+
